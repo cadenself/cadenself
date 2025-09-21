@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Caden 👋</h1>
+<p align="center">
+  💻 Web Developer • 🧠 Lifelong Learner • 🚀 Focused on Clean Code & Real Impact
+</p>
 
-<!--
-**cadenself/cadenself** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 I love building sleek, modern web tools and apps
+- 🎯 Currently working on: **Pro To-Do List**
+- 🌱 Learning: More advanced JavaScript and localStorage tricks
+- 💬 Ask me about: HTML, CSS, JS, Git, or front-end dev!
+- 📫 Reach me: cadenself.dev@gmail.com *(example — update this!)*
+
+---
+
+### 🧰 Tech Stack
+
+```bash
+💡 Languages:   HTML · CSS · JavaScript · Python  
+⚙️ Tools:       Git · GitHub · VS Code · Node.js  
+🧪 Frameworks:  Bootstrap · Tailwind · Express (learning)
