@@ -8,7 +8,7 @@
 ### 🚀 About Me
 
 - 👨‍💻 I love building sleek, modern web tools and apps
-- 🎯 Currently working on: **Pro To-Do List**
+- 🎯 Currently working on: **meditation timer**
 - 🌱 Learning: More advanced JavaScript and localStorage tricks
 - 💬 Ask me about: HTML, CSS, JS, Git, or front-end ded
 - 📫 Reach me: cbself98@gmail.com
