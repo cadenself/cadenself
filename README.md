@@ -11,7 +11,7 @@
 - 🎯 Currently working on: **Pro To-Do List**
 - 🌱 Learning: More advanced JavaScript and localStorage tricks
 - 💬 Ask me about: HTML, CSS, JS, Git, or front-end dev!
-- 📫 Reach me: cadenself.dev@gmail.com *(example — update this!)*
+- 📫 Reach me: cbself98@gmail.com *(example — update this!)*
 
 ---
 
